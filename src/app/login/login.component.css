@@ -1,0 +1,10 @@
+.section-blue-background {
+
+    overflow: hidden;
+    padding: 6rem !important;
+    background: #00a2ff;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-attachment: scroll;
+    background-size: cover;
+}
